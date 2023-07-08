@@ -1,0 +1,14 @@
+---
+layout: post
+title: Welcome
+---
+# Hello, I'm Han!
+Currently working with Nodejs And Python for Software and Embbed, but I love learn new thing in programming such as Javascript, Java, Python.  
+
+I possess a versatile skill set and a deep understanding of these programming languages. With expertise in these technologies, I am capable of designing, developing, and maintaining robust software solutions for various platforms and industries.
+
+In JavaScript, I am adept at utilizing the language's flexibility and extensive libraries to create interactive and dynamic web applications. Whether it's building responsive user interfaces, implementing client-side logic, or handling server-side interactions through frameworks like Node.js, I can leverage JavaScript to deliver engaging and efficient web experiences.
+
+With Python, I excel at developing scalable and efficient software solutions. Python's simplicity, readability, and vast ecosystem of libraries make it a powerful tool for a wide range of applications. I can leverage frameworks such as Django or Flask to build web applications, harness the power of data analysis and machine learning libraries like NumPy, Pandas, or TensorFlow, and automate tasks using scripts or web scraping tools.
+
+Additionally, my proficiency in Java allows me to develop robust, enterprise-level applications. With Java's platform independence and object-oriented paradigm, I can create scalable, modular, and maintainable software solutions. Whether it's building desktop applications, developing Android mobile apps, or designing distributed systems using frameworks like Spring, I can effectively utilize Java to meet diverse project requirements.
