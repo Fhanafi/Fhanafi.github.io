@@ -1,6 +1,8 @@
 ---
 layout: post
 title: DNA with Python code
+category: [Python]
+tags: [Python, BioPython]
 ---
 # Melihat DNA dengan Python: Mengeksplorasi Genomik
 
